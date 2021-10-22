@@ -3,9 +3,9 @@ A bunch of us got together and came up with some stuff that we wish we would hav
 
 ## Why C#
 
-I personally believe that C# is pretty awesome because it can both read and write as plain english. I often look at some programming languages and find it pretty difficult to decipher exactly what is going on. 
+I personally believe that C# is pretty awesome because it can both read and write as plain english. I often look at some programming languages and find it pretty difficult to decipher exactly what is going on (yes i am looking at you C++). 
 
-Lets look at this Hello World in C# for example 
+Lets look at this Hello World in C# for example and admire its simplistic beauty
 
 ```csharp
 // C# program to print Hello World!
